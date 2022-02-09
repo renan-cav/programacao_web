@@ -1,0 +1,38 @@
+body{
+    background-color: #000;
+  }
+  .caixa{
+    background-color: #D3D3D3;
+    width:800px;
+    height:600px;
+    margin:auto;
+    padding:10px;
+    display:flex;
+  }
+  .barra{
+    width:100%;
+    height: calc((100% - 40px)/5);
+    margin:right;
+    color:#FFFFFF;
+    text-align:center;
+  }
+  .eua{
+    background-color: #0000ff;
+    height:99.73%;
+  }
+  .china{
+    background-color: #FF0000;
+    height:73.30%;
+  }
+  .japao{
+    background-color: #FFA500;
+    height:22.17%;
+  }
+  .alemanha{
+    background-color: #993399;
+  height:18.39%;
+  }
+  .uk{
+    background-color: #008000;
+    height:13.52%;
+  }
